@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: lightskyblue;
+    color: crimson;
+}
+
+.pre {
+    font-size: larger;
+}
+
+.h2 {
+    font-size: 30px;
+    color: crimson;
+}
